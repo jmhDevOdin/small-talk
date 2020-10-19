@@ -1,3 +1,8 @@
-* {
-  margin: 0;
+.app {
+    background-color: whitesmoke;
+    height: 100vh;
+}
+
+.app__body {
+    display: flex;
 }
