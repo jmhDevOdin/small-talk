@@ -4,13 +4,12 @@ React based social media web application based on a similar design to Facebook w
 
 ## Hosted here
 
-PLACEHOLDER till hosted live:
-https://gitlab.com/j-m-harrison/small-talk/
+https://tonal-f1490.web.app/
 
 ### Screenshot of application
 
-![PLACEHOLDER IMAGE](images/app.png)
+![Main Page Screenhot](images/app.png)
 
 ### Screenshot of login
 
-![PLACEHOLDER IMAGE](images/login.png)
+![Login Screenshot](images/login.png)
